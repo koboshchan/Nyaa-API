@@ -1,0 +1,36 @@
+{
+  "name": "nyaa-api",
+  "version": "2.0.1",
+  "description": "Open-source Nyaa API compatible implementation",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "esbuild src/server.ts --bundle --minify --platform=node --target=node24 --format=cjs --outfile=dist/server.cjs",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test test/*.test.ts",
+    "start": "node dist/server.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koboshchan/Nyaa-API.git"
+  },
+  "keywords": [],
+  "author": "koboshchan",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/koboshchan/Nyaa-API/issues"
+  },
+  "homepage": "https://github.com/koboshchan/Nyaa-API#readme",
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "esbuild": "^0.28.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
