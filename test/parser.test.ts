@@ -40,3 +40,6 @@ test('invalid category, subcategory, sort, order', () => {
     assert.throws(() => buildQuery('nyaa', new URLSearchParams(p)), (e: unknown) => e instanceof ApiError && e.status === 400);
   }
 });
+test('detail comments preserve full original shape', () => {
+  assert.deepEqual(parseDetail(fixture('comments.html'), 'https://nyaa.si', '1013299'), JSON.parse(fixture('comments.json')));
+});

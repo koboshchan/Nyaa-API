@@ -12,7 +12,7 @@ async function scrape(url: URL, detail: boolean) {
   // Fixed upstream hosts, no user-provided URLs or offsite redirects.
   const response = await fetch(url, { redirect: 'manual',
     signal: AbortSignal.timeout(20000), headers: { 'User-Agent': 'Nyaa-API/2.0.1 (open-source compatible implementation)' } });
-  if (response.status === 404) throw new ApiError(400, detail ? 'Invalid torrent ID.' : 'Invalid username.');
+  if (response.status === 404) throw new ApiError(404, detail ? 'Invalid torrent ID.' : 'Invalid username.');
   if (!response.ok) throw new ApiError(502, 'Upstream website unavailable.');
   const bytes = await response.arrayBuffer();
   if (bytes.byteLength > 8 * 1024 * 1024) throw new ApiError(502, 'Upstream response too large.');

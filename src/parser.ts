@@ -46,8 +46,11 @@ export function parseDetail(html: string, base: string, id: string) {
     const c = $(el);
     return {
       user: c.find('.col-md-2 a').first().text().trim(),
+      profileUrl: absolute(c.find('.col-md-2 a').first().attr('href'), base),
+      avatar: absolute(c.find('img.avatar').attr('src'), base),
+      commentBody: c.find('.comment-content').text().trim(),
       time: c.find('[data-timestamp]').first().text().trim(),
-      comment: c.find('.comment-content').text().trim()
+      link: absolute('/view/' + id + '#' + c.attr('id'), base)
     };
   });
   return { data: { ...fields, title: panel.find('.panel-title').text().trim(),
