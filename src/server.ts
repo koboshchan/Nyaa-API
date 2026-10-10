@@ -1,5 +1,5 @@
 import { createServer } from 'node:http';
-import { networkInterfaces } from 'node:os';
+import { isIP } from 'node:net';
 import { parseSearch, parseDetail } from './parser.js';
 import { ApiError, buildQuery, integer, type Site } from './query.js';
 import spec from './openapi.json' with { type: 'json' };
@@ -32,7 +32,14 @@ export const server = createServer(async (req, res) => {
     const url = new URL(req.url ?? '/', 'http://localhost');
     if (req.method !== 'GET') return respond(405, { detail: 'Method Not Allowed' });
     if (url.pathname === '/') {
-      const ip = Object.values(networkInterfaces()).flat().find(a => a?.family === 'IPv4' && !a.internal)?.address ?? '127.0.0.1';
+      // Deployment proxies must overwrite these headers; they are informational,
+      // not suitable for authorization or rate limiting without a trust policy.
+      const forwarded = req.headers['x-forwarded-for'];
+      const first = (Array.isArray(forwarded) ? forwarded[0] : forwarded)?.split(',')[0]?.trim();
+      const realHeader = req.headers['x-real-ip'];
+      const real = (Array.isArray(realHeader) ? realHeader[0] : realHeader)?.trim();
+      const ip = first && isIP(first) ? first
+        : real && isIP(real) ? real : req.socket.remoteAddress;
       return respond(200, { app: 'Nyaa API', version: '2.0.1', ip, uptime: (performance.now() - started) / 1000 });
     }
     if (url.pathname === '/openapi.json') return respond(200, spec);
