@@ -32,7 +32,7 @@ The root returns app, version, ip, and uptime. IP is the container's local inter
 
 Run `npm test` and `npm run typecheck` for the offline fixture tests. With the API running, `python3 scripts/compare-live.py` compares safe metadata queries, IDs, user searches, validation, and documentation against the original. Override the local URL with `API_BASE`. Sukebei is checked only with a deliberately nonexistent query; no adult-content fixtures are included.
 
-The multi-stage Dockerfile compiles the entire application and HTML parser into one minified CommonJS file. The non-root runner contains no application node_modules. The local amd64 image is approximately 61.7 MB uncompressed, with a roughly 212 KiB bundle. The Node Alpine base still includes its standard Node tooling. Compose runs read-only with all capabilities dropped.
+The multi-stage Dockerfile compiles the entire application and HTML parser into one minified CommonJS file. The non-root runner contains no application node_modules. The local amd64 image is approximately 53.2 MB as reported by Docker, with a roughly 212 KiB bundle. The Alpine runner copies only the Node binary, without npm, yarn, or global node_modules. Compose runs read-only with all capabilities dropped.
 
 GitHub Actions tests every push and pull request. Pushes to main and tags publish amd64/arm64 images to GHCR using GITHUB_TOKEN with packages write permission. Main publishes latest; tags publish their tag name, with semver aliases for version tags.
 

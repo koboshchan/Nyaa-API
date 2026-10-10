@@ -7,7 +7,9 @@ COPY src ./src
 COPY test ./test
 RUN npm run typecheck && npm test && npm run build
 
-FROM node:24-alpine AS runner
+FROM alpine:3.24 AS runner
+RUN apk add --no-cache libstdc++ ca-certificates && addgroup -S node && adduser -S -G node node
+COPY --from=builder /usr/local/bin/node /usr/local/bin/node
 ENV NODE_ENV=production PORT=3000 HOST=0.0.0.0
 WORKDIR /app
 COPY --from=builder --chown=node:node /build/dist/server.cjs ./server.cjs
