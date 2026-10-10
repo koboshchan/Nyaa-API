@@ -1,0 +1,3002 @@
+[
+  {
+    "path": "/nyaa?q=ubuntu",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=ubuntu&category=software&sub_category=applications",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&q=ubuntu",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&page=0",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&page=-1",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&page=2",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&page=1.0",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&page=+1",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&page=",
+    "match": true,
+    "original": {
+      "status": 422,
+      "body": {
+        "detail": [
+          {
+            "type": "int_parsing",
+            "loc": [
+              "query",
+              "page"
+            ],
+            "msg": "Input should be a valid integer, unable to parse string as an integer",
+            "input": "",
+            "url": "https://errors.pydantic.dev/2.11/v/int_parsing"
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 422,
+      "body": {
+        "detail": [
+          {
+            "type": "int_parsing",
+            "loc": [
+              "query",
+              "page"
+            ],
+            "msg": "Input should be a valid integer, unable to parse string as an integer",
+            "input": "",
+            "url": "https://errors.pydantic.dev/2.11/v/int_parsing"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa?page=abc",
+    "match": true,
+    "original": {
+      "status": 422,
+      "body": {
+        "detail": [
+          {
+            "type": "int_parsing",
+            "loc": [
+              "query",
+              "page"
+            ],
+            "msg": "Input should be a valid integer, unable to parse string as an integer",
+            "input": "abc",
+            "url": "https://errors.pydantic.dev/2.11/v/int_parsing"
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 422,
+      "body": {
+        "detail": [
+          {
+            "type": "int_parsing",
+            "loc": [
+              "query",
+              "page"
+            ],
+            "msg": "Input should be a valid integer, unable to parse string as an integer",
+            "input": "abc",
+            "url": "https://errors.pydantic.dev/2.11/v/int_parsing"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa?page=1.5",
+    "match": true,
+    "original": {
+      "status": 422,
+      "body": {
+        "detail": [
+          {
+            "type": "int_parsing",
+            "loc": [
+              "query",
+              "page"
+            ],
+            "msg": "Input should be a valid integer, unable to parse string as an integer",
+            "input": "1.5",
+            "url": "https://errors.pydantic.dev/2.11/v/int_parsing"
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 422,
+      "body": {
+        "detail": [
+          {
+            "type": "int_parsing",
+            "loc": [
+              "query",
+              "page"
+            ],
+            "msg": "Input should be a valid integer, unable to parse string as an integer",
+            "input": "1.5",
+            "url": "https://errors.pydantic.dev/2.11/v/int_parsing"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa?page=1e2",
+    "match": true,
+    "original": {
+      "status": 422,
+      "body": {
+        "detail": [
+          {
+            "type": "int_parsing",
+            "loc": [
+              "query",
+              "page"
+            ],
+            "msg": "Input should be a valid integer, unable to parse string as an integer",
+            "input": "1e2",
+            "url": "https://errors.pydantic.dev/2.11/v/int_parsing"
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 422,
+      "body": {
+        "detail": [
+          {
+            "type": "int_parsing",
+            "loc": [
+              "query",
+              "page"
+            ],
+            "msg": "Input should be a valid integer, unable to parse string as an integer",
+            "input": "1e2",
+            "url": "https://errors.pydantic.dev/2.11/v/int_parsing"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa?page=999999999999999999999999",
+    "match": true,
+    "original": {
+      "status": 404,
+      "body": {
+        "detail": "404 Error: Lost in the digital wilderness! This endpoint is playing hide and seek. Consult the documentation to reveal its secret location."
+      }
+    },
+    "clone": {
+      "status": 404,
+      "body": {
+        "detail": "404 Error: Lost in the digital wilderness! This endpoint is playing hide and seek. Consult the documentation to reveal its secret location."
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=&category=software&sub_category=applications&page=999999",
+    "match": true,
+    "original": {
+      "status": 404,
+      "body": {
+        "detail": "404 Error: Lost in the digital wilderness! This endpoint is playing hide and seek. Consult the documentation to reveal its secret location."
+      }
+    },
+    "clone": {
+      "status": 404,
+      "body": {
+        "detail": "404 Error: Lost in the digital wilderness! This endpoint is playing hide and seek. Consult the documentation to reveal its secret location."
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&sort=",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&order=",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?category=bad",
+    "match": true,
+    "original": {
+      "status": 400,
+      "body": {
+        "detail": "Invalid category. Refer to docs for more info."
+      }
+    },
+    "clone": {
+      "status": 400,
+      "body": {
+        "detail": "Invalid category. Refer to docs for more info."
+      }
+    }
+  },
+  {
+    "path": "/nyaa?category=Software",
+    "match": true,
+    "original": {
+      "status": 400,
+      "body": {
+        "detail": "Invalid category. Refer to docs for more info."
+      }
+    },
+    "clone": {
+      "status": 400,
+      "body": {
+        "detail": "Invalid category. Refer to docs for more info."
+      }
+    }
+  },
+  {
+    "path": "/nyaa?category=6",
+    "match": true,
+    "original": {
+      "status": 400,
+      "body": {
+        "detail": "Invalid category. Refer to docs for more info."
+      }
+    },
+    "clone": {
+      "status": 400,
+      "body": {
+        "detail": "Invalid category. Refer to docs for more info."
+      }
+    }
+  },
+  {
+    "path": "/nyaa?sub_category=bad",
+    "match": true,
+    "original": {
+      "status": 400,
+      "body": {
+        "detail": "Category and sub category must be used together."
+      }
+    },
+    "clone": {
+      "status": 400,
+      "body": {
+        "detail": "Category and sub category must be used together."
+      }
+    }
+  },
+  {
+    "path": "/nyaa?category=software&sub_category=application",
+    "match": true,
+    "original": {
+      "status": 400,
+      "body": {
+        "detail": "Invalid sub category. Refer to docs for more info."
+      }
+    },
+    "clone": {
+      "status": 400,
+      "body": {
+        "detail": "Invalid sub category. Refer to docs for more info."
+      }
+    }
+  },
+  {
+    "path": "/nyaa?category=software&sub_category=bad",
+    "match": true,
+    "original": {
+      "status": 400,
+      "body": {
+        "detail": "Invalid sub category. Refer to docs for more info."
+      }
+    },
+    "clone": {
+      "status": 400,
+      "body": {
+        "detail": "Invalid sub category. Refer to docs for more info."
+      }
+    }
+  },
+  {
+    "path": "/nyaa?sort=bad",
+    "match": true,
+    "original": {
+      "status": 400,
+      "body": {
+        "detail": "Invalid sorting attribute. Allowed values are 'size', 'id', 'seeders', 'leechers' or 'downloads'."
+      }
+    },
+    "clone": {
+      "status": 400,
+      "body": {
+        "detail": "Invalid sorting attribute. Allowed values are 'size', 'id', 'seeders', 'leechers' or 'downloads'."
+      }
+    }
+  },
+  {
+    "path": "/nyaa?sort=comments",
+    "match": true,
+    "original": {
+      "status": 400,
+      "body": {
+        "detail": "Invalid sorting attribute. Allowed values are 'size', 'id', 'seeders', 'leechers' or 'downloads'."
+      }
+    },
+    "clone": {
+      "status": 400,
+      "body": {
+        "detail": "Invalid sorting attribute. Allowed values are 'size', 'id', 'seeders', 'leechers' or 'downloads'."
+      }
+    }
+  },
+  {
+    "path": "/nyaa?order=bad",
+    "match": true,
+    "original": {
+      "status": 400,
+      "body": {
+        "detail": "Invalid sorting order. Allowed values are 'asc' or 'desc'"
+      }
+    },
+    "clone": {
+      "status": 400,
+      "body": {
+        "detail": "Invalid sorting order. Allowed values are 'asc' or 'desc'"
+      }
+    }
+  },
+  {
+    "path": "/nyaa/id/96659",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "data": {
+          "category": "Software - Applications",
+          "time": "2009-11-03 07:03 UTC",
+          "uploader": "NyaaTorrents",
+          "seeders": 0,
+          "information": "http://kohalivecd.mizstik.com",
+          "leechers": 0,
+          "size": "624.0 MiB",
+          "downloads": 0,
+          "infohash": "45008e48c8800b7d7643337b2e70a634e4c69f6a",
+          "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+          "link": "https://nyaa.si/view/96659",
+          "torrent": "https://nyaa.si/download/96659.torrent",
+          "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "comments": []
+        }
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "data": {
+          "category": "Software - Applications",
+          "time": "2009-11-03 07:03 UTC",
+          "uploader": "NyaaTorrents",
+          "seeders": 0,
+          "information": "http://kohalivecd.mizstik.com",
+          "leechers": 0,
+          "size": "624.0 MiB",
+          "downloads": 0,
+          "infohash": "45008e48c8800b7d7643337b2e70a634e4c69f6a",
+          "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+          "link": "https://nyaa.si/view/96659",
+          "torrent": "https://nyaa.si/download/96659.torrent",
+          "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "comments": []
+        }
+      }
+    }
+  },
+  {
+    "path": "/nyaa/id/1013299",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "data": {
+          "category": "Software - Games",
+          "time": "2018-03-07 22:27 UTC",
+          "uploader": "Team Yarashii",
+          "seeders": 2,
+          "information": "https://www.yarashii.fr/2018/01/doki-doki-literature-club-vn-fr/",
+          "leechers": 0,
+          "size": "143.4 MiB",
+          "downloads": 57,
+          "infohash": "e0629a35da68ff9d00e270287625c96e75bdb954",
+          "title": "[Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
+          "link": "https://nyaa.si/view/1013299",
+          "torrent": "https://nyaa.si/download/1013299.torrent",
+          "magnet": "magnet:?xt=urn:btih:e0629a35da68ff9d00e270287625c96e75bdb954&dn=%5BYarashii%5D%20Doki%20Doki%20Literature%20Club%21%20Patch%20FR%20pour%20MAC%20et%20LINUX%20%28Patch%20uniquement%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "comments": [
+            {
+              "user": "Zapiboss",
+              "profileUrl": "https://nyaa.si/user/Zapiboss",
+              "avatar": "https://i0.wp.com/nyaa.si/user/Zapiboss/avatar-WqKndg?ssl=1",
+              "commentBody": "Je reseed tous les soirs, donc non, le torrent n'est pas mort !\nMerci de rester en seed un petit bout de temps après avoir terminé de télécharger !\n(Si vous comptez jouer, pensez à mettre le torrent en pause temporairement ou sinon ce sera impossible de lancer le jeu)",
+              "time": "2018-03-08 12:05 UTC",
+              "link": "https://nyaa.si/view/1013299#com-1"
+            }
+          ]
+        }
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "data": {
+          "category": "Software - Games",
+          "time": "2018-03-07 22:27 UTC",
+          "uploader": "Team Yarashii",
+          "seeders": 2,
+          "information": "https://www.yarashii.fr/2018/01/doki-doki-literature-club-vn-fr/",
+          "leechers": 0,
+          "size": "143.4 MiB",
+          "downloads": 57,
+          "infohash": "e0629a35da68ff9d00e270287625c96e75bdb954",
+          "title": "[Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
+          "link": "https://nyaa.si/view/1013299",
+          "torrent": "https://nyaa.si/download/1013299.torrent",
+          "magnet": "magnet:?xt=urn:btih:e0629a35da68ff9d00e270287625c96e75bdb954&dn=%5BYarashii%5D%20Doki%20Doki%20Literature%20Club%21%20Patch%20FR%20pour%20MAC%20et%20LINUX%20%28Patch%20uniquement%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "comments": [
+            {
+              "user": "Zapiboss",
+              "profileUrl": "https://nyaa.si/user/Zapiboss",
+              "avatar": "https://i0.wp.com/nyaa.si/user/Zapiboss/avatar-WqKndg?ssl=1",
+              "commentBody": "Je reseed tous les soirs, donc non, le torrent n'est pas mort !\nMerci de rester en seed un petit bout de temps après avoir terminé de télécharger !\n(Si vous comptez jouer, pensez à mettre le torrent en pause temporairement ou sinon ce sera impossible de lancer le jeu)",
+              "time": "2018-03-08 12:05 UTC",
+              "link": "https://nyaa.si/view/1013299#com-1"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "path": "/nyaa/id/0",
+    "match": true,
+    "original": {
+      "status": 404,
+      "body": {
+        "detail": "Invalid torrent ID."
+      }
+    },
+    "clone": {
+      "status": 404,
+      "body": {
+        "detail": "Invalid torrent ID."
+      }
+    }
+  },
+  {
+    "path": "/nyaa/id/-1",
+    "match": true,
+    "original": {
+      "status": 404,
+      "body": {
+        "detail": "Invalid torrent ID."
+      }
+    },
+    "clone": {
+      "status": 404,
+      "body": {
+        "detail": "Invalid torrent ID."
+      }
+    }
+  },
+  {
+    "path": "/nyaa/id/abc",
+    "match": true,
+    "original": {
+      "status": 422,
+      "body": {
+        "detail": [
+          {
+            "type": "int_parsing",
+            "loc": [
+              "path",
+              "torrent_id"
+            ],
+            "msg": "Input should be a valid integer, unable to parse string as an integer",
+            "input": "abc",
+            "url": "https://errors.pydantic.dev/2.11/v/int_parsing"
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 422,
+      "body": {
+        "detail": [
+          {
+            "type": "int_parsing",
+            "loc": [
+              "path",
+              "torrent_id"
+            ],
+            "msg": "Input should be a valid integer, unable to parse string as an integer",
+            "input": "abc",
+            "url": "https://errors.pydantic.dev/2.11/v/int_parsing"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa/id/96659.0",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "data": {
+          "category": "Software - Applications",
+          "time": "2009-11-03 07:03 UTC",
+          "uploader": "NyaaTorrents",
+          "seeders": 0,
+          "information": "http://kohalivecd.mizstik.com",
+          "leechers": 0,
+          "size": "624.0 MiB",
+          "downloads": 0,
+          "infohash": "45008e48c8800b7d7643337b2e70a634e4c69f6a",
+          "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+          "link": "https://nyaa.si/view/96659",
+          "torrent": "https://nyaa.si/download/96659.torrent",
+          "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "comments": []
+        }
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "data": {
+          "category": "Software - Applications",
+          "time": "2009-11-03 07:03 UTC",
+          "uploader": "NyaaTorrents",
+          "seeders": 0,
+          "information": "http://kohalivecd.mizstik.com",
+          "leechers": 0,
+          "size": "624.0 MiB",
+          "downloads": 0,
+          "infohash": "45008e48c8800b7d7643337b2e70a634e4c69f6a",
+          "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+          "link": "https://nyaa.si/view/96659",
+          "torrent": "https://nyaa.si/download/96659.torrent",
+          "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "comments": []
+        }
+      }
+    }
+  },
+  {
+    "path": "/nyaa/user/Team%20Yarashii?q=Doki",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 3,
+        "data": [
+          {
+            "category": "Software - Games",
+            "title": "[Yarashii] Doki Doki Literature Club! FR 1.1.0 (Jeu prépatché + True ED VOSTFR)",
+            "link": "https://nyaa.si/view/1013301",
+            "torrent": "https://nyaa.si/download/1013301.torrent",
+            "magnet": "magnet:?xt=urn:btih:04eee6a4cc08f570c0e207950e879d500b07e0ab&dn=%5BYarashii%5D%20Doki%20Doki%20Literature%20Club%21%20FR%201.1.0%20%28Jeu%20pr%C3%A9patch%C3%A9%20%2B%20True%20ED%20VOSTFR%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "594.9 MiB",
+            "time": "2018-03-07 22:27",
+            "seeders": 3,
+            "leechers": 0,
+            "downloads": 1589
+          },
+          {
+            "category": "Software - Games",
+            "title": "[Yarashii] Doki Doki Literature Club! Patch FR 1.1.0 (Patch uniquement + True ED VOSTFR)",
+            "link": "https://nyaa.si/view/1013300",
+            "torrent": "https://nyaa.si/download/1013300.torrent",
+            "magnet": "magnet:?xt=urn:btih:2bddfac62fe0a447c19ad34b0f2c0b0fb1895288&dn=%5BYarashii%5D%20Doki%20Doki%20Literature%20Club%21%20Patch%20FR%201.1.0%20%28Patch%20uniquement%20%2B%20True%20ED%20VOSTFR%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "471.2 MiB",
+            "time": "2018-03-07 22:27",
+            "seeders": 1,
+            "leechers": 0,
+            "downloads": 572
+          },
+          {
+            "category": "Software - Games",
+            "title": "[Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
+            "link": "https://nyaa.si/view/1013299",
+            "torrent": "https://nyaa.si/download/1013299.torrent",
+            "magnet": "magnet:?xt=urn:btih:e0629a35da68ff9d00e270287625c96e75bdb954&dn=%5BYarashii%5D%20Doki%20Doki%20Literature%20Club%21%20Patch%20FR%20pour%20MAC%20et%20LINUX%20%28Patch%20uniquement%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "143.4 MiB",
+            "time": "2018-03-07 22:27",
+            "seeders": 2,
+            "leechers": 0,
+            "downloads": 57
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 3,
+        "data": [
+          {
+            "category": "Software - Games",
+            "title": "[Yarashii] Doki Doki Literature Club! FR 1.1.0 (Jeu prépatché + True ED VOSTFR)",
+            "link": "https://nyaa.si/view/1013301",
+            "torrent": "https://nyaa.si/download/1013301.torrent",
+            "magnet": "magnet:?xt=urn:btih:04eee6a4cc08f570c0e207950e879d500b07e0ab&dn=%5BYarashii%5D%20Doki%20Doki%20Literature%20Club%21%20FR%201.1.0%20%28Jeu%20pr%C3%A9patch%C3%A9%20%2B%20True%20ED%20VOSTFR%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "594.9 MiB",
+            "time": "2018-03-07 22:27",
+            "seeders": 3,
+            "leechers": 0,
+            "downloads": 1589
+          },
+          {
+            "category": "Software - Games",
+            "title": "[Yarashii] Doki Doki Literature Club! Patch FR 1.1.0 (Patch uniquement + True ED VOSTFR)",
+            "link": "https://nyaa.si/view/1013300",
+            "torrent": "https://nyaa.si/download/1013300.torrent",
+            "magnet": "magnet:?xt=urn:btih:2bddfac62fe0a447c19ad34b0f2c0b0fb1895288&dn=%5BYarashii%5D%20Doki%20Doki%20Literature%20Club%21%20Patch%20FR%201.1.0%20%28Patch%20uniquement%20%2B%20True%20ED%20VOSTFR%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "471.2 MiB",
+            "time": "2018-03-07 22:27",
+            "seeders": 1,
+            "leechers": 0,
+            "downloads": 572
+          },
+          {
+            "category": "Software - Games",
+            "title": "[Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
+            "link": "https://nyaa.si/view/1013299",
+            "torrent": "https://nyaa.si/download/1013299.torrent",
+            "magnet": "magnet:?xt=urn:btih:e0629a35da68ff9d00e270287625c96e75bdb954&dn=%5BYarashii%5D%20Doki%20Doki%20Literature%20Club%21%20Patch%20FR%20pour%20MAC%20et%20LINUX%20%28Patch%20uniquement%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "143.4 MiB",
+            "time": "2018-03-07 22:27",
+            "seeders": 2,
+            "leechers": 0,
+            "downloads": 57
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa/user/NO_SUCH_USER_892332",
+    "match": true,
+    "original": {
+      "status": 404,
+      "body": {
+        "detail": "Invalid username."
+      }
+    },
+    "clone": {
+      "status": 404,
+      "body": {
+        "detail": "Invalid username."
+      }
+    }
+  },
+  {
+    "path": "/nyaa/user/NyaaTorrents?q=ubuntu",
+    "match": true,
+    "original": {
+      "status": 404,
+      "body": {
+        "detail": "Invalid username."
+      }
+    },
+    "clone": {
+      "status": 404,
+      "body": {
+        "detail": "Invalid username."
+      }
+    }
+  },
+  {
+    "path": "/sukebei?q=zzzz-no-match-892332",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/openapi.json",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "openapi": "3.1.0",
+        "info": {
+          "title": "Nyaa-API",
+          "description": "Unofficial Nyaa API",
+          "contact": {
+            "url": "https://github.com/Vivek-Kolhe"
+          },
+          "version": "2.0.1"
+        },
+        "paths": {
+          "/": {
+            "get": {
+              "tags": [
+                "Home"
+              ],
+              "summary": "Home",
+              "description": "Home Route: Returns app details.",
+              "operationId": "home__get",
+              "responses": {
+                "200": {
+                  "description": "Successful Response",
+                  "content": {
+                    "application/json": {
+                      "schema": {}
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "/nyaa": {
+            "get": {
+              "tags": [
+                "Search"
+              ],
+              "summary": "Nyaa Category Search",
+              "operationId": "nyaa_category_search_nyaa_get",
+              "parameters": [
+                {
+                  "name": "q",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Search query",
+                    "description": "The search query for torrents."
+                  },
+                  "description": "The search query for torrents."
+                },
+                {
+                  "name": "category",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Torrent category",
+                    "description": "Filter torrents by category."
+                  },
+                  "description": "Filter torrents by category."
+                },
+                {
+                  "name": "sub_category",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Torrent sub category",
+                    "description": "Filter torrents by subcategory."
+                  },
+                  "description": "Filter torrents by subcategory."
+                },
+                {
+                  "name": "sort",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Sort torrents",
+                    "description": "Sort torrents by a particular attribute."
+                  },
+                  "description": "Sort torrents by a particular attribute."
+                },
+                {
+                  "name": "order",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Sorting order",
+                    "description": "Order in which torrents should be sorted (asc or desc)."
+                  },
+                  "description": "Order in which torrents should be sorted (asc or desc)."
+                },
+                {
+                  "name": "page",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "integer",
+                    "title": "Page",
+                    "description": "Page number for pagination.",
+                    "default": 1
+                  },
+                  "description": "Page number for pagination."
+                }
+              ],
+              "responses": {
+                "200": {
+                  "description": "Successful Response",
+                  "content": {
+                    "application/json": {
+                      "schema": {}
+                    }
+                  }
+                },
+                "422": {
+                  "description": "Validation Error",
+                  "content": {
+                    "application/json": {
+                      "schema": {
+                        "$ref": "#/components/schemas/HTTPValidationError"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "/sukebei": {
+            "get": {
+              "tags": [
+                "Search"
+              ],
+              "summary": "Sukebei Category Search",
+              "operationId": "sukebei_category_search_sukebei_get",
+              "parameters": [
+                {
+                  "name": "q",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Search query",
+                    "description": "The search query for torrents."
+                  },
+                  "description": "The search query for torrents."
+                },
+                {
+                  "name": "category",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Torrent category",
+                    "description": "Filter torrents by category."
+                  },
+                  "description": "Filter torrents by category."
+                },
+                {
+                  "name": "sub_category",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Torrent sub category",
+                    "description": "Filter torrents by subcategory."
+                  },
+                  "description": "Filter torrents by subcategory."
+                },
+                {
+                  "name": "sort",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Sort torrents",
+                    "description": "Sort torrents by a particular attribute."
+                  },
+                  "description": "Sort torrents by a particular attribute."
+                },
+                {
+                  "name": "order",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Sorting order",
+                    "description": "Order in which torrents should be sorted (asc or desc)."
+                  },
+                  "description": "Order in which torrents should be sorted (asc or desc)."
+                },
+                {
+                  "name": "page",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "integer",
+                    "title": "Page",
+                    "description": "Page number for pagination.",
+                    "default": 1
+                  },
+                  "description": "Page number for pagination."
+                }
+              ],
+              "responses": {
+                "200": {
+                  "description": "Successful Response",
+                  "content": {
+                    "application/json": {
+                      "schema": {}
+                    }
+                  }
+                },
+                "422": {
+                  "description": "Validation Error",
+                  "content": {
+                    "application/json": {
+                      "schema": {
+                        "$ref": "#/components/schemas/HTTPValidationError"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "/nyaa/id/{torrent_id}": {
+            "get": {
+              "tags": [
+                "ID Search"
+              ],
+              "summary": "Nyaa Id Search",
+              "operationId": "nyaa_id_search_nyaa_id__torrent_id__get",
+              "parameters": [
+                {
+                  "name": "torrent_id",
+                  "in": "path",
+                  "required": true,
+                  "schema": {
+                    "type": "integer",
+                    "title": "Torrent Id"
+                  }
+                }
+              ],
+              "responses": {
+                "200": {
+                  "description": "Successful Response",
+                  "content": {
+                    "application/json": {
+                      "schema": {}
+                    }
+                  }
+                },
+                "422": {
+                  "description": "Validation Error",
+                  "content": {
+                    "application/json": {
+                      "schema": {
+                        "$ref": "#/components/schemas/HTTPValidationError"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "/sukebei/id/{torrent_id}": {
+            "get": {
+              "tags": [
+                "ID Search"
+              ],
+              "summary": "Sukebei Id Search",
+              "operationId": "sukebei_id_search_sukebei_id__torrent_id__get",
+              "parameters": [
+                {
+                  "name": "torrent_id",
+                  "in": "path",
+                  "required": true,
+                  "schema": {
+                    "type": "integer",
+                    "title": "Torrent Id"
+                  }
+                }
+              ],
+              "responses": {
+                "200": {
+                  "description": "Successful Response",
+                  "content": {
+                    "application/json": {
+                      "schema": {}
+                    }
+                  }
+                },
+                "422": {
+                  "description": "Validation Error",
+                  "content": {
+                    "application/json": {
+                      "schema": {
+                        "$ref": "#/components/schemas/HTTPValidationError"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "/nyaa/user/{user_name}": {
+            "get": {
+              "tags": [
+                "User search"
+              ],
+              "summary": "Nyaa User Search",
+              "operationId": "nyaa_user_search_nyaa_user__user_name__get",
+              "parameters": [
+                {
+                  "name": "user_name",
+                  "in": "path",
+                  "required": true,
+                  "schema": {
+                    "type": "string",
+                    "title": "User Name"
+                  }
+                },
+                {
+                  "name": "q",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Search query",
+                    "description": "The search query for torrents."
+                  },
+                  "description": "The search query for torrents."
+                },
+                {
+                  "name": "category",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Torrent category",
+                    "description": "Filter torrents by category."
+                  },
+                  "description": "Filter torrents by category."
+                },
+                {
+                  "name": "sub_category",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Torrent sub category",
+                    "description": "Filter torrents by subcategory."
+                  },
+                  "description": "Filter torrents by subcategory."
+                },
+                {
+                  "name": "sort",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Sort torrents",
+                    "description": "Sort torrents by a particular attribute."
+                  },
+                  "description": "Sort torrents by a particular attribute."
+                },
+                {
+                  "name": "order",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Sorting order",
+                    "description": "Order in which torrents should be sorted (asc or desc)."
+                  },
+                  "description": "Order in which torrents should be sorted (asc or desc)."
+                },
+                {
+                  "name": "page",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "integer",
+                    "title": "Page",
+                    "description": "Page number for pagination.",
+                    "default": 1
+                  },
+                  "description": "Page number for pagination."
+                }
+              ],
+              "responses": {
+                "200": {
+                  "description": "Successful Response",
+                  "content": {
+                    "application/json": {
+                      "schema": {}
+                    }
+                  }
+                },
+                "422": {
+                  "description": "Validation Error",
+                  "content": {
+                    "application/json": {
+                      "schema": {
+                        "$ref": "#/components/schemas/HTTPValidationError"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "/sukebei/user/{user_name}": {
+            "get": {
+              "tags": [
+                "User search"
+              ],
+              "summary": "Sukebei User Search",
+              "operationId": "sukebei_user_search_sukebei_user__user_name__get",
+              "parameters": [
+                {
+                  "name": "user_name",
+                  "in": "path",
+                  "required": true,
+                  "schema": {
+                    "type": "string",
+                    "title": "User Name"
+                  }
+                },
+                {
+                  "name": "q",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Search query",
+                    "description": "The search query for torrents."
+                  },
+                  "description": "The search query for torrents."
+                },
+                {
+                  "name": "category",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Torrent category",
+                    "description": "Filter torrents by category."
+                  },
+                  "description": "Filter torrents by category."
+                },
+                {
+                  "name": "sub_category",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Torrent sub category",
+                    "description": "Filter torrents by subcategory."
+                  },
+                  "description": "Filter torrents by subcategory."
+                },
+                {
+                  "name": "sort",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Sort torrents",
+                    "description": "Sort torrents by a particular attribute."
+                  },
+                  "description": "Sort torrents by a particular attribute."
+                },
+                {
+                  "name": "order",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Sorting order",
+                    "description": "Order in which torrents should be sorted (asc or desc)."
+                  },
+                  "description": "Order in which torrents should be sorted (asc or desc)."
+                },
+                {
+                  "name": "page",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "integer",
+                    "title": "Page",
+                    "description": "Page number for pagination.",
+                    "default": 1
+                  },
+                  "description": "Page number for pagination."
+                }
+              ],
+              "responses": {
+                "200": {
+                  "description": "Successful Response",
+                  "content": {
+                    "application/json": {
+                      "schema": {}
+                    }
+                  }
+                },
+                "422": {
+                  "description": "Validation Error",
+                  "content": {
+                    "application/json": {
+                      "schema": {
+                        "$ref": "#/components/schemas/HTTPValidationError"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "components": {
+          "schemas": {
+            "HTTPValidationError": {
+              "properties": {
+                "detail": {
+                  "items": {
+                    "$ref": "#/components/schemas/ValidationError"
+                  },
+                  "type": "array",
+                  "title": "Detail"
+                }
+              },
+              "type": "object",
+              "title": "HTTPValidationError"
+            },
+            "ValidationError": {
+              "properties": {
+                "loc": {
+                  "items": {
+                    "anyOf": [
+                      {
+                        "type": "string"
+                      },
+                      {
+                        "type": "integer"
+                      }
+                    ]
+                  },
+                  "type": "array",
+                  "title": "Location"
+                },
+                "msg": {
+                  "type": "string",
+                  "title": "Message"
+                },
+                "type": {
+                  "type": "string",
+                  "title": "Error Type"
+                }
+              },
+              "type": "object",
+              "required": [
+                "loc",
+                "msg",
+                "type"
+              ],
+              "title": "ValidationError"
+            }
+          }
+        }
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "openapi": "3.1.0",
+        "info": {
+          "title": "Nyaa-API",
+          "description": "Unofficial Nyaa API",
+          "contact": {
+            "url": "https://github.com/Vivek-Kolhe"
+          },
+          "version": "2.0.1"
+        },
+        "paths": {
+          "/": {
+            "get": {
+              "tags": [
+                "Home"
+              ],
+              "summary": "Home",
+              "description": "Home Route: Returns app details.",
+              "operationId": "home__get",
+              "responses": {
+                "200": {
+                  "description": "Successful Response",
+                  "content": {
+                    "application/json": {
+                      "schema": {}
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "/nyaa": {
+            "get": {
+              "tags": [
+                "Search"
+              ],
+              "summary": "Nyaa Category Search",
+              "operationId": "nyaa_category_search_nyaa_get",
+              "parameters": [
+                {
+                  "name": "q",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Search query",
+                    "description": "The search query for torrents."
+                  },
+                  "description": "The search query for torrents."
+                },
+                {
+                  "name": "category",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Torrent category",
+                    "description": "Filter torrents by category."
+                  },
+                  "description": "Filter torrents by category."
+                },
+                {
+                  "name": "sub_category",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Torrent sub category",
+                    "description": "Filter torrents by subcategory."
+                  },
+                  "description": "Filter torrents by subcategory."
+                },
+                {
+                  "name": "sort",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Sort torrents",
+                    "description": "Sort torrents by a particular attribute."
+                  },
+                  "description": "Sort torrents by a particular attribute."
+                },
+                {
+                  "name": "order",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Sorting order",
+                    "description": "Order in which torrents should be sorted (asc or desc)."
+                  },
+                  "description": "Order in which torrents should be sorted (asc or desc)."
+                },
+                {
+                  "name": "page",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "integer",
+                    "title": "Page",
+                    "description": "Page number for pagination.",
+                    "default": 1
+                  },
+                  "description": "Page number for pagination."
+                }
+              ],
+              "responses": {
+                "200": {
+                  "description": "Successful Response",
+                  "content": {
+                    "application/json": {
+                      "schema": {}
+                    }
+                  }
+                },
+                "422": {
+                  "description": "Validation Error",
+                  "content": {
+                    "application/json": {
+                      "schema": {
+                        "$ref": "#/components/schemas/HTTPValidationError"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "/sukebei": {
+            "get": {
+              "tags": [
+                "Search"
+              ],
+              "summary": "Sukebei Category Search",
+              "operationId": "sukebei_category_search_sukebei_get",
+              "parameters": [
+                {
+                  "name": "q",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Search query",
+                    "description": "The search query for torrents."
+                  },
+                  "description": "The search query for torrents."
+                },
+                {
+                  "name": "category",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Torrent category",
+                    "description": "Filter torrents by category."
+                  },
+                  "description": "Filter torrents by category."
+                },
+                {
+                  "name": "sub_category",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Torrent sub category",
+                    "description": "Filter torrents by subcategory."
+                  },
+                  "description": "Filter torrents by subcategory."
+                },
+                {
+                  "name": "sort",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Sort torrents",
+                    "description": "Sort torrents by a particular attribute."
+                  },
+                  "description": "Sort torrents by a particular attribute."
+                },
+                {
+                  "name": "order",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Sorting order",
+                    "description": "Order in which torrents should be sorted (asc or desc)."
+                  },
+                  "description": "Order in which torrents should be sorted (asc or desc)."
+                },
+                {
+                  "name": "page",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "integer",
+                    "title": "Page",
+                    "description": "Page number for pagination.",
+                    "default": 1
+                  },
+                  "description": "Page number for pagination."
+                }
+              ],
+              "responses": {
+                "200": {
+                  "description": "Successful Response",
+                  "content": {
+                    "application/json": {
+                      "schema": {}
+                    }
+                  }
+                },
+                "422": {
+                  "description": "Validation Error",
+                  "content": {
+                    "application/json": {
+                      "schema": {
+                        "$ref": "#/components/schemas/HTTPValidationError"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "/nyaa/id/{torrent_id}": {
+            "get": {
+              "tags": [
+                "ID Search"
+              ],
+              "summary": "Nyaa Id Search",
+              "operationId": "nyaa_id_search_nyaa_id__torrent_id__get",
+              "parameters": [
+                {
+                  "name": "torrent_id",
+                  "in": "path",
+                  "required": true,
+                  "schema": {
+                    "type": "integer",
+                    "title": "Torrent Id"
+                  }
+                }
+              ],
+              "responses": {
+                "200": {
+                  "description": "Successful Response",
+                  "content": {
+                    "application/json": {
+                      "schema": {}
+                    }
+                  }
+                },
+                "422": {
+                  "description": "Validation Error",
+                  "content": {
+                    "application/json": {
+                      "schema": {
+                        "$ref": "#/components/schemas/HTTPValidationError"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "/sukebei/id/{torrent_id}": {
+            "get": {
+              "tags": [
+                "ID Search"
+              ],
+              "summary": "Sukebei Id Search",
+              "operationId": "sukebei_id_search_sukebei_id__torrent_id__get",
+              "parameters": [
+                {
+                  "name": "torrent_id",
+                  "in": "path",
+                  "required": true,
+                  "schema": {
+                    "type": "integer",
+                    "title": "Torrent Id"
+                  }
+                }
+              ],
+              "responses": {
+                "200": {
+                  "description": "Successful Response",
+                  "content": {
+                    "application/json": {
+                      "schema": {}
+                    }
+                  }
+                },
+                "422": {
+                  "description": "Validation Error",
+                  "content": {
+                    "application/json": {
+                      "schema": {
+                        "$ref": "#/components/schemas/HTTPValidationError"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "/nyaa/user/{user_name}": {
+            "get": {
+              "tags": [
+                "User search"
+              ],
+              "summary": "Nyaa User Search",
+              "operationId": "nyaa_user_search_nyaa_user__user_name__get",
+              "parameters": [
+                {
+                  "name": "user_name",
+                  "in": "path",
+                  "required": true,
+                  "schema": {
+                    "type": "string",
+                    "title": "User Name"
+                  }
+                },
+                {
+                  "name": "q",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Search query",
+                    "description": "The search query for torrents."
+                  },
+                  "description": "The search query for torrents."
+                },
+                {
+                  "name": "category",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Torrent category",
+                    "description": "Filter torrents by category."
+                  },
+                  "description": "Filter torrents by category."
+                },
+                {
+                  "name": "sub_category",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Torrent sub category",
+                    "description": "Filter torrents by subcategory."
+                  },
+                  "description": "Filter torrents by subcategory."
+                },
+                {
+                  "name": "sort",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Sort torrents",
+                    "description": "Sort torrents by a particular attribute."
+                  },
+                  "description": "Sort torrents by a particular attribute."
+                },
+                {
+                  "name": "order",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Sorting order",
+                    "description": "Order in which torrents should be sorted (asc or desc)."
+                  },
+                  "description": "Order in which torrents should be sorted (asc or desc)."
+                },
+                {
+                  "name": "page",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "integer",
+                    "title": "Page",
+                    "description": "Page number for pagination.",
+                    "default": 1
+                  },
+                  "description": "Page number for pagination."
+                }
+              ],
+              "responses": {
+                "200": {
+                  "description": "Successful Response",
+                  "content": {
+                    "application/json": {
+                      "schema": {}
+                    }
+                  }
+                },
+                "422": {
+                  "description": "Validation Error",
+                  "content": {
+                    "application/json": {
+                      "schema": {
+                        "$ref": "#/components/schemas/HTTPValidationError"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "/sukebei/user/{user_name}": {
+            "get": {
+              "tags": [
+                "User search"
+              ],
+              "summary": "Sukebei User Search",
+              "operationId": "sukebei_user_search_sukebei_user__user_name__get",
+              "parameters": [
+                {
+                  "name": "user_name",
+                  "in": "path",
+                  "required": true,
+                  "schema": {
+                    "type": "string",
+                    "title": "User Name"
+                  }
+                },
+                {
+                  "name": "q",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Search query",
+                    "description": "The search query for torrents."
+                  },
+                  "description": "The search query for torrents."
+                },
+                {
+                  "name": "category",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Torrent category",
+                    "description": "Filter torrents by category."
+                  },
+                  "description": "Filter torrents by category."
+                },
+                {
+                  "name": "sub_category",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Torrent sub category",
+                    "description": "Filter torrents by subcategory."
+                  },
+                  "description": "Filter torrents by subcategory."
+                },
+                {
+                  "name": "sort",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Sort torrents",
+                    "description": "Sort torrents by a particular attribute."
+                  },
+                  "description": "Sort torrents by a particular attribute."
+                },
+                {
+                  "name": "order",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "string",
+                    "title": "Sorting order",
+                    "description": "Order in which torrents should be sorted (asc or desc)."
+                  },
+                  "description": "Order in which torrents should be sorted (asc or desc)."
+                },
+                {
+                  "name": "page",
+                  "in": "query",
+                  "required": false,
+                  "schema": {
+                    "type": "integer",
+                    "title": "Page",
+                    "description": "Page number for pagination.",
+                    "default": 1
+                  },
+                  "description": "Page number for pagination."
+                }
+              ],
+              "responses": {
+                "200": {
+                  "description": "Successful Response",
+                  "content": {
+                    "application/json": {
+                      "schema": {}
+                    }
+                  }
+                },
+                "422": {
+                  "description": "Validation Error",
+                  "content": {
+                    "application/json": {
+                      "schema": {
+                        "$ref": "#/components/schemas/HTTPValidationError"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "components": {
+          "schemas": {
+            "HTTPValidationError": {
+              "properties": {
+                "detail": {
+                  "items": {
+                    "$ref": "#/components/schemas/ValidationError"
+                  },
+                  "type": "array",
+                  "title": "Detail"
+                }
+              },
+              "type": "object",
+              "title": "HTTPValidationError"
+            },
+            "ValidationError": {
+              "properties": {
+                "loc": {
+                  "items": {
+                    "anyOf": [
+                      {
+                        "type": "string"
+                      },
+                      {
+                        "type": "integer"
+                      }
+                    ]
+                  },
+                  "type": "array",
+                  "title": "Location"
+                },
+                "msg": {
+                  "type": "string",
+                  "title": "Message"
+                },
+                "type": {
+                  "type": "string",
+                  "title": "Error Type"
+                }
+              },
+              "type": "object",
+              "required": [
+                "loc",
+                "msg",
+                "type"
+              ],
+              "title": "ValidationError"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=ubuntu&sort=id&order=asc",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=ubuntu&sort=id&order=desc",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=ubuntu&sort=size&order=asc",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=ubuntu&sort=size&order=desc",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=ubuntu&sort=seeders&order=asc",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=ubuntu&sort=seeders&order=desc",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=ubuntu&sort=leechers&order=asc",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=ubuntu&sort=leechers&order=desc",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=ubuntu&sort=downloads&order=asc",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=ubuntu&sort=downloads&order=desc",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 1,
+        "data": [
+          {
+            "category": "Software - Applications",
+            "title": "Koha Live CD Release 3 (3.0.4 Ubuntu 9.10 Desktop x86)",
+            "link": "https://nyaa.si/view/96659",
+            "torrent": "https://nyaa.si/download/96659.torrent",
+            "magnet": "magnet:?xt=urn:btih:45008e48c8800b7d7643337b2e70a634e4c69f6a&dn=Koha%20Live%20CD%20Release%203%20%283.0.4%20Ubuntu%209.10%20Desktop%20x86%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+            "size": "624.0 MiB",
+            "time": "2009-11-03 07:03",
+            "seeders": 0,
+            "leechers": 0,
+            "downloads": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=anime",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=anime&sub_category=amv",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=anime&sub_category=eng",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=anime&sub_category=non-eng",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=anime&sub_category=raw",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=audio",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=audio&sub_category=lossless",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=audio&sub_category=lossy",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=manga",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=manga&sub_category=eng",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=manga&sub_category=non-eng",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=manga&sub_category=raw",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=live_action",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=live_action&sub_category=eng",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=live_action&sub_category=promo",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=live_action&sub_category=non-eng",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=live_action&sub_category=raw",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=pictures",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=pictures&sub_category=graphics",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=pictures&sub_category=photos",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=software",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=software&sub_category=applications",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  },
+  {
+    "path": "/nyaa?q=zzzz-no-match-892332&category=software&sub_category=games",
+    "match": true,
+    "original": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    },
+    "clone": {
+      "status": 200,
+      "body": {
+        "count": 0,
+        "data": []
+      }
+    }
+  }
+]

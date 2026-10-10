@@ -39,7 +39,7 @@ export function buildQuery(site: Site, params: URLSearchParams) {
     error("Invalid sorting attribute. Allowed values are 'size', 'id', 'seeders', 'leechers' or 'downloads'.");
   if (order && !['asc', 'desc'].includes(order))
     error("Invalid sorting order. Allowed values are 'asc' or 'desc'");
-  const query = new URLSearchParams({ f: '0', c: selected ? selected[0] + '_' + (sub ? selected[1][sub] : 0) : '0_0', p: String(page) });
+  const query = new URLSearchParams({ f: '0', c: selected ? selected[0] + '_' + (sub ? selected[1][sub] : 0) : '0_0', p: BigInt((get('page') ?? '1').trim().replace(/\.0+$/, '')).toString() });
   if (get('q')) query.set('q', get('q')!);
   if (sort) query.set('s', sort);
   if (order) query.set('o', order);

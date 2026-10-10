@@ -12,7 +12,12 @@ async function scrape(url: URL, detail: boolean) {
   // Fixed upstream hosts, no user-provided URLs or offsite redirects.
   const response = await fetch(url, { redirect: 'manual',
     signal: AbortSignal.timeout(20000), headers: { 'User-Agent': 'Nyaa-API/2.0.1 (open-source compatible implementation)' } });
-  if (response.status === 404) throw new ApiError(404, detail ? 'Invalid torrent ID.' : 'Invalid username.');
+  if (response.status === 404 || response.status === 403) {
+    const message = url.pathname.startsWith('/view/') ? 'Invalid torrent ID.'
+      : url.pathname.startsWith('/user/') ? 'Invalid username.'
+      : '404 Error: Lost in the digital wilderness! This endpoint is playing hide and seek. Consult the documentation to reveal its secret location.';
+    throw new ApiError(404, message);
+  }
   if (!response.ok) throw new ApiError(502, 'Upstream website unavailable.');
   const bytes = await response.arrayBuffer();
   if (bytes.byteLength > 8 * 1024 * 1024) throw new ApiError(502, 'Upstream response too large.');
@@ -34,6 +39,10 @@ export const server = createServer(async (req, res) => {
     if (url.pathname === '/docs') return respond(200, docs, true);
     const match = /^\/(nyaa|sukebei)(?:\/(id|user)\/([^/]+))?\/?$/.exec(url.pathname);
     if (!match) return respond(404, { detail: 'Not Found' });
+    if (url.pathname.endsWith('/')) {
+      res.writeHead(307, { Location: url.pathname.slice(0, -1) + url.search });
+      return res.end();
+    }
     const site = match[1] as Site, mode = match[2], value = decodeURIComponent(match[3] ?? '');
     const base = bases[site];
     if (mode === 'id') {

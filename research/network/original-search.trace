@@ -1,0 +1,16 @@
+> GET /nyaa?q=ubuntu&category=software&sub_category=applications&sort=seeders&order=desc&page=1 HTTP/2
+> Host: nyaaapi.onrender.com
+> User-Agent: curl/8.5.0
+> Accept: */*
+> 
+< HTTP/2 200 
+< date: Sat, 10 Oct 2026 10:56:18 GMT
+< content-type: application/json
+< cf-cache-status: DYNAMIC
+< rndr-id: c5c8203d-e6c5-4730
+< server: cloudflare
+< vary: Accept-Encoding
+< x-render-origin-server: uvicorn
+< cf-ray: a48519029cdb9464-SJC
+< alt-svc: h3=":443"; ma=86400
+< 

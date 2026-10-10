@@ -1,0 +1,16 @@
+> GET /nyaa?page=abc HTTP/2
+> Host: nyaaapi.onrender.com
+> User-Agent: curl/8.5.0
+> Accept: */*
+> 
+< HTTP/2 422 
+< date: Sat, 10 Oct 2026 10:56:19 GMT
+< content-type: application/json
+< rndr-id: cb59254f-9c53-4350
+< server: cloudflare
+< vary: Accept-Encoding
+< x-render-origin-server: uvicorn
+< cf-cache-status: DYNAMIC
+< cf-ray: a4851907f8f95655-SJC
+< alt-svc: h3=":443"; ma=86400
+< 

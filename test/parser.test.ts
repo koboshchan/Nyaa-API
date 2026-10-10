@@ -43,3 +43,6 @@ test('invalid category, subcategory, sort, order', () => {
 test('detail comments preserve full original shape', () => {
   assert.deepEqual(parseDetail(fixture('comments.html'), 'https://nyaa.si', '1013299'), JSON.parse(fixture('comments.json')));
 });
+test('large Python integers keep exact upstream pagination', () => {
+  assert.equal(buildQuery('nyaa', new URLSearchParams('page=999999999999999999999999')).get('p'), '999999999999999999999999');
+});

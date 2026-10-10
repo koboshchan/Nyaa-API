@@ -1,0 +1,20 @@
+> GET /?f=0&c=6_1&q=ubuntu&s=seeders&o=desc&p=1 HTTP/2
+> Host: nyaa.si
+> User-Agent: curl/8.5.0
+> Accept: */*
+> 
+< HTTP/2 200 
+< server: ddos-guard
+< set-cookie: [redacted]
+< set-cookie: [redacted]
+< set-cookie: [redacted]
+< content-security-policy: upgrade-insecure-requests;
+< set-cookie: [redacted]
+< date: Sat, 10 Oct 2026 10:56:18 GMT
+< content-type: text/html; charset=utf-8
+< content-length: 16165
+< x-proxy-cache: HIT
+< cache-control: no-cache, no-store, must-revalidate
+< referrer-policy: same-origin
+< x-robots-tag: noarchive
+< 
