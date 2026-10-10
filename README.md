@@ -1,116 +1,41 @@
-<h1 align="center"> Nyaa API </h1>
+# Nyaa API
 
-<p align="center">
-<a href="https://nyaaapi.onrender.com/docs"><img src="https://img.shields.io/website?url=https%3A%2F%2Fnyaaapi.onrender.com%2Fdocs&style=for-the-badge&label=Status&labelColor=%23555555" title="status"></a>
-<a href="https://github.com/Vivek-Kolhe"><img src="https://img.shields.io/github/followers/Vivek-Kolhe?style=for-the-badge&labelColor=%23555555&color=%23263759" title="gh followers"></a>
-<a href="https://github.com/Vivek-Kolhe/Nyaa-API/stargazers"><img src="https://img.shields.io/github/stars/Vivek-Kolhe/Nyaa-API?style=for-the-badge&labelColor=%23555555&color=%23263759" title="repo stars"></a>
-<a href="https://telegram.dog/ded_sadge"><img src="https://img.shields.io/badge/ded__sadge-smthing?style=for-the-badge&logo=telegram&labelColor=%23555555&color=%23263759" title="repo stars"></a>
-</p>
+An open-source TypeScript reimplementation of [Vivek-Kolhe's Nyaa API](https://github.com/Vivek-Kolhe/Nyaa-API), compatible with the observed 2.0.1 API at https://nyaaapi.onrender.com. It scrapes public website metadata, not torrent payloads.
 
-<p align="center">
-Nyaa API is an Unofficial Nyaa.si API. It just scrapes the website to satisfy the need for an API.
-<br>
-The API is closed source for now. I might make it open source in the near future. <a href="https://nyaaapi.onrender.com/docs"> Documentation. </a>
-</p>
+Run locally with Node 24.
 
-## Usage
-**The API is available at:** `https://nyaaapi.onrender.com/`
+```sh
+npm ci
+npm run build
+npm start
+```
 
-<details open>
-<summary><span style="font-size: 15px; font-weight:bold"> Search </span></summary>
-<p>
+For Docker, run `docker compose up --build -d`. The API listens on http://localhost:3000. Set the host port with `PORT=8080 docker compose up --build -d`. Published images are available at `ghcr.io/koboshchan/nyaa-api:latest`.
 
-- **Nyaa Endpoint:** `https://nyaaapi.onrender.com/nyaa`
-- **Sukebei Endpoint:** `https://nyaaapi.onrender.com/sukebei`
+```sh
+curl 'http://localhost:3000/nyaa?q=ubuntu&category=software&sub_category=applications'
+curl 'http://localhost:3000/nyaa/id/96659'
+curl 'http://localhost:3000/nyaa/user/Team%20Yarashii?q=Doki'
+```
 
-</p>
-<details closed>
-<summary><span style="font-size: 12px; font-weight: bold"> Examples </span></summary>
-<p>
+Both `/nyaa` and `/sukebei` support search, `/id/{torrent_id}`, and `/user/{user_name}`. Search and user routes accept `q`, `category`, `sub_category`, `sort`, `order`, and `page`. Page defaults to 1. Sort accepts `id`, `size`, `seeders`, `leechers`, or `downloads`; order accepts `asc` or `desc`.
 
-- `https://nyaaapi.onrender.com/nyaa?q={query}&category={torrent_category}`
-- `https://nyaaapi.onrender.com/sukebei?q={query}&category={torrent_category}`
+Nyaa categories are `anime` (amv, eng, non-eng, raw), `audio` (lossless, lossy), `manga` (eng, non-eng, raw), `live_action` (eng, promo, non-eng, raw), `pictures` (graphics, photos), and `software` (applications, games). The original README's singular `application` is rejected by the live API; this implementation follows its actual behavior.
 
-</p>
-</details>
+Sukebei categories are `art` (anime, doujinshi, manga, games, pictures) and `real` (photos, videos). Subcategories require a category.
 
-**Note:** These endpoints also take optional query parameters. For more info, [visit here](https://nyaaapi.onrender.com/docs#/Search).
+Search returns `{count,data:[...]}`. Count is the number of entries on the current page, not the total number of results. Each entry has `category`, `title`, `link`, `torrent`, `magnet`, `size`, `time`, `seeders`, `leechers`, and `downloads`.
 
-</details>
+ID routes return `{data:{...}}`, not the search envelope. They include uploader, information, infohash, and comments. Comments include user, profileUrl, avatar, commentBody, time, and link. Invalid numeric parameters produce FastAPI/Pydantic-style 422 responses. Invalid filters produce 400; missing users or IDs produce 404.
 
-<details open>
-<summary><span style="font-size: 15px; font-weight:bold"> User search </span></summary>
-<p>
+The root returns app, version, ip, and uptime. IP is the container's local interface address, and uptime is this process's age; neither is expected to equal the hosted original's runtime values. The observed OpenAPI document is bundled at `/openapi.json`. Interactive Swagger documentation is at `/docs` and loads Swagger UI assets from a CDN.
 
-- **Nyaa Endpoint:** `https://nyaaapi.onrender.com/nyaa/user/{user_name}`
-- **Sukebei Endpoint:** `https://nyaaapi.onrender.com/sukebei/user/{user_name}`
+Run `npm test` and `npm run typecheck` for the offline fixture tests. With the API running, `python3 scripts/compare-live.py` compares safe metadata queries, IDs, user searches, validation, and documentation against the original. Override the local URL with `API_BASE`. Sukebei is checked only with a deliberately nonexistent query; no adult-content fixtures are included.
 
-</p>
-<details closed>
-<summary><span style="font-size: 12px; font-weight: bold"> Examples </span></summary>
-<p>
+The multi-stage Dockerfile compiles the entire application and HTML parser into one minified CommonJS file. The non-root runner contains no application node_modules. The local amd64 image is approximately 61.7 MB uncompressed, with a roughly 212 KiB bundle. The Node Alpine base still includes its standard Node tooling. Compose runs read-only with all capabilities dropped.
 
-- `https://nyaaapi.onrender.com/nyaa/user/{user_name}?q={query}&category={torrent_category}`
-- `https://nyaaapi.onrender.com/sukebei/user/{user_name}?q={query}&category={torrent_category}`
+GitHub Actions tests every push and pull request. Pushes to main and tags publish amd64/arm64 images to GHCR using GITHUB_TOKEN with packages write permission. Main publishes latest; tags publish their tag name, with semver aliases for version tags.
 
-</p>
-</details>
+This is an independent implementation, not the original closed-source code. The [Nyaa Telegram Bot](https://github.com/Vivek-Kolhe/Nyaa-Telegram-Bot) was examined as a reference for route and category conventions; its current source calls the API rather than implementing scraping. The original response format and public site HTML informed this parser. MIT, copyright koboshchan. Dependency licenses remain with their respective authors.
 
-**Note:** These endpoints also take optional query parameters. For more info, [visit here](https://nyaaapi.onrender.com/docs#/User%20search).
-
-</details>
-
-<details open>
-<summary><span style="font-size: 15px; font-weight:bold"> Search using torrent ID </span></summary>
-<p>
-
-- **Nyaa Endpoint:** `https://nyaaapi.onrender.com/nyaa/id/{torrent_id}`
-- **Sukebei Endpoint:** `https://nyaaapi.onrender.com/sukebei/id/{torrent_id}`
-
-</p>
-<details closed>
-<summary><span style="font-size: 12px; font-weight: bold"> Examples </span></summary>
-<p>
-
-- `https://nyaaapi.onrender.com/nyaa/id/{torrent_id}`
-- `https://nyaaapi.onrender.com/sukebei/id/{torrent_id}`
-
-</p>
-</details>
-
-**Note:** For more info, [visit here](https://nyaaapi.onrender.com/docs#/ID%20Search).
-
-</details>
-
-## Allowed Param Values
-- **Nyaa**
-  
-  | **Category**     | **Sub-Category**                        |
-  | :--------------: | :-------------------------------------: |
-  | `anime`          | `amv`, `eng`, `non-eng`, `raw`          |
-  | `manga`          | `eng`, `non-eng`, `raw`                 |
-  | `audio`          | `lossy`, `lossless`                     |
-  | `pictures`       | `photos`, `graphics`                    |
-  | `live_action`    | `promo`, `eng`, `non-eng`, `raw`        |
-  | `software`       | `application`, `games`                  |
-
-- **Sukebei**
-
-  | **Category** | **Sub-Category**                                   |
-  |:------------:|:-------------------------------------------------: |
-  | `art`        | `anime`, `doujinshi`, `games`, `manga`, `pictures` |
-  | `real`       | `photos`, `videos`                                 |
-
-- **Sorting**
-
-  `sort`: `id`, `leechers`, `seeders`, `size`, `downloads`
-
-- **Ordering**
-
-  `order`: `asc`, `desc`
-
-**Note:** `sort` and `order` params are common for both endpoints.
-
-## Disclaimer
-**I do not host any of the torrents fetched by the API. The API is just meant to scrape the website and return the results. I do not promote piracy, if you guys can afford legal methods, then use them and support the industry :).\
-Use it at your own risk!**
+Use metadata only where you have the right to do so, respect upstream sites, and don't expose an unrestricted public proxy without rate limiting. No downloads are started by this service. Website layout changes can break scraping, and unobserved edge cases may differ from the original. Upstream outages return 502 rather than leaking internal errors.
